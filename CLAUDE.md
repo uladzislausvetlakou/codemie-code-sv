@@ -265,10 +265,10 @@ git push origin main --tags
 **Verifying the publish:**
 ```bash
 # Check on npm registry
-npm view @codemie/code
+npm view @codemie.ai/code
 
 # Install and test locally
-npm install -g @codemie/code@latest
+npm install -g @codemie.ai/code@latest
 codemie doctor
 ```
 

@@ -23,7 +23,7 @@ CodeMie Code is a unified npm package that provides both a built-in AI coding as
 ### From npm (when published)
 
 ```bash
-npm install -g @codemie/code
+npm install -g @codemie.ai/code
 ```
 
 ### From Source (Development)
@@ -614,7 +614,7 @@ codemie-code test
 **Solution:**
 ```bash
 # Re-install globally
-npm install -g @codemie/code
+npm install -g @codemie.ai/code
 
 # Or re-link the package (from source)
 cd /path/to/codemie-code
